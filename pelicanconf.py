@@ -8,6 +8,14 @@ SITEURL = ''
 
 PATH = 'content'
 
+STATIC_PATHS = ["Blog", "Downloads"]
+
+ARTICAL_PATHS = ["Blog"]
+
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+
+ARTICLE_URL = '{date:%Y}/{slug}.html'
+
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = u'en'
