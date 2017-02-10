@@ -8,6 +8,6 @@ siteEmailUrl = "#"
 siteLinkedinUrl = "https://www.linkedin.com/in/benjongbloedt"
 siteStackOverflowUrl = "http://stackoverflow.com/users/7396578/ben-jongbloedt"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-91794731-1"
 
 linkPrefix = "/gatsby-starter-lumen"
