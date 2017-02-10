@@ -4,12 +4,6 @@ layout: page
 path: "/about"
 ---
 
-Lorem ipsum dolor sit amet, in summo tamquam mea, gubergren laboramus torquatos usu ne, magna rationibus sit eu. Id constituam honestatis pri, iracundia adversarium vel te. Per ferri aliquam impedit ex. Ei nec elitr nonumy vidisse, et qui fierent maluisset sadipscing, tincidunt vituperata delicatissimi te quo.
+I am a software professional who has been working in the field since 2013.  I have shifted between working as a manual software tester, to an automated software tester, to a developer, and just about everywhere in between.  I love a good challenge when it comes to my work, and this field has offered me plenty of them.  My hope is that I can document some of those challeges on this blog so that I can remember and maybe save the reader of this blog a bit of time when they come up against the same problem.
 
-Te est iisque volutpat, tacimates dissentias no ius. Ea eam quodsi omnium deseruisse, affert evertitur sententiae sea ei. Dicit minimum at quo, nulla ludus vivendum cu mea, audire reformidans mei id. In his deserunt tincidunt, cu stet soleat libris sit, et modus illum sea. Id usu ubique volumus deterruisset, mea ut viderer reformidans complectitur. Ignota meliore eu eam.
-
-Vix mazim ornatus in, populo causae mandamus cu mei, ut malis novum postulant duo. Pro tantas consulatu in, ei nullam labore detraxit sed. Ne nam wisi percipitur. Ea sint nonumy pri. Id mel graeco latine tacimates, eum no habeo laudem iriure, sea putent tritani accommodare id. Pro no rebum decore eripuit.
-
-Alia albucius pro ut. Mea ut ipsum dolor. Qui ea volumus blandit iudicabit, ad sed timeam nominati posidonium, mel ei meis ocurreret mnesarchum. Mei elitr senserit voluptatibus ad, te quod vivendo vix. Vis no perfecto abhorreant, cu appellantur repudiandae mei, at vix mnesarchum honestatis disputationi.
-
-Omnium utamur detraxit te pro, affert nominati has ea. Delectus platonem ius et. Cibo aperiam denique an duo, illud laudem constituam quo id. Inani civibus pertinacia nam an. Luptatum instructior sed at, an elit accommodare sit, vix ne nulla soluta.
+I like learning the ins and outs of different programming languages so I have written in quite a few different languages.  These include Java, C#, Python, Nodejs, Go, F#, and a couple others I have played around with a bit.  If I had to pick right now, I would say that I am most comforatble with Python and Nodejs.  I like the Python community and the languages readability vs Java.  I mainly work with nodejs and javascript because the future of the computer seems to be web based, and JS is the toll you have to pay to enter a great ecosystem.  It is rare to find a language that is both super important (try using a website without javscript) and deeply challenging.
