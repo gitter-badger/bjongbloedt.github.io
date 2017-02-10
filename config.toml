@@ -1,10 +1,10 @@
 siteTitle = "Blog by Ben Jongbloedt"
-siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+siteDescr = "Thoughts on software and life (but mostly software)."
 siteAuthor = "Ben Jongbloedt"
 
 siteTwitterUrl = "https://twitter.com/benjongbloedt"
 siteGithubUrl = "https://github.com/bjongbloedt"
-siteEmailUrl = "#"
+siteEmailUrl = "mailto:bjongbloedt@hotmail.com"
 siteLinkedinUrl = "https://www.linkedin.com/in/benjongbloedt"
 siteStackOverflowUrl = "http://stackoverflow.com/users/7396578/ben-jongbloedt"
 

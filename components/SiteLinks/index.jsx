@@ -2,6 +2,7 @@ import React from 'react'
 import { RouteHandler, Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
+import ReactGa from 'react-ga';
 import './style.css'
 import '../../static/fonts/fontawesome/style.css'
 
@@ -13,44 +14,49 @@ class SiteLinks extends React.Component {
           <ul>
             {config.siteTwitterUrl && (
               <li>
-                <a href={config.siteTwitterUrl}>
+                <ReactGa.OutboundLink
+                  eventLabel="link-to-twitter"
+                  to={config.siteTwitterUrl} >
                   <i className="fa fa-twitter" />
-                </a>
+                </ReactGa.OutboundLink>
               </li>
             )}
             {config.siteLinkedinUrl && (
               <li>
-                <a href={config.siteLinkedinUrl}>
+                <ReactGa.OutboundLink
+                  eventLabel="link-to-linkedin"
+                  to={config.siteLinkedinUrl} >
                   <i className="fa fa-linkedin" />
-                </a>
+                </ReactGa.OutboundLink>
               </li>
             )}
             {config.siteStackOverflowUrl && (
               <li>
-                <a href={config.siteStackOverflowUrl}>
+                <ReactGa.OutboundLink
+                  eventLabel="link-to-stack-overflow"
+                  to={config.siteStackOverflowUrl} >
                   <i className="fa fa-stack-overflow" />
-                </a>
+                </ReactGa.OutboundLink>
               </li>
             )}
             {config.siteGithubUrl && (
               <li>
-                <a href={config.siteGithubUrl}>
+                <ReactGa.OutboundLink
+                  eventLabel="link-to-github"
+                  to={config.siteGithubUrl} >
                   <i className="fa fa-github-alt" />
-                </a>
-              </li>
-            )}
-            {config.siteVkUrl && (
-              <li>
-                <a href={config.siteVkUrl}><i className="fa fa-vk" /></a>
+                </ReactGa.OutboundLink>
               </li>
             )}
           </ul>
           <ul>
             {config.siteEmailUrl && (
               <li>
-                <a href={config.siteEmailUrl}>
+                <ReactGa.OutboundLink
+                  eventLabel="link-to-email"
+                  to={config.siteEmailUrl} >
                   <i className="fa fa-envelope-o" />
-                </a>
+                </ReactGa.OutboundLink>
               </li>
             )}
             {config.siteTelegramUrl && (
