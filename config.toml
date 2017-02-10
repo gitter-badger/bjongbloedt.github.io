@@ -1,0 +1,13 @@
+siteTitle = "Blog by Ben Jongbloedt"
+siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+siteAuthor = "Ben Jongbloedt"
+
+siteTwitterUrl = "https://twitter.com/benjongbloedt"
+siteGithubUrl = "https://github.com/bjongbloedt"
+siteEmailUrl = "#"
+siteLinkedinUrl = "https://www.linkedin.com/in/benjongbloedt"
+siteStackOverflowUrl = "http://stackoverflow.com/users/7396578/ben-jongbloedt"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
