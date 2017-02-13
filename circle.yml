@@ -6,4 +6,6 @@ deployment:
   production:
     branch: src
     commands:
-    - npm run deploy-ci
+    - git config --global user.email "bjongbloedt@hotmail.com"
+    - git config --global user.name "bjongbloedt"
+    - npm run deploy
