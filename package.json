@@ -12,7 +12,8 @@
     "copy": "npm run copy:files",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 0",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploy-ci": "git config user.name \"$USER_NAME\" && git config user.email \"$USER_EMAIL\" && npm run deploy"
   },
   "keywords": [
     "gatsby",

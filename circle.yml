@@ -1,3 +1,7 @@
+machine:
+  environment:
+    USER_NAME: bjongbloedt
+    USER_EMAIL: bjongbloedt@hotmail.com
 general:
   branches:
     ignore:
@@ -6,4 +10,4 @@ deployment:
   production:
     branch: src
     commands:
-    - npm run deploy
+    - npm run deploy-ci
